@@ -12,6 +12,7 @@
 .idea/**/usage.statistics.xml
 .idea/**/dictionaries
 .idea/**/shelf
+.idea/
 
 # Generated files
 .idea/**/contentModel.xml
@@ -104,7 +105,6 @@ app/storage/
 public/storage
 public/hot
 storage/*.key
-.env
 Homestead.yaml
 Homestead.json
 /.vagrant
